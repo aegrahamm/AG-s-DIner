@@ -1,0 +1,19 @@
+.header {
+  padding: 80px;
+  background-image: url(https://i.pinimg.com/474x/08/73/3a/08733a12b4ff23b65e1f650769a256fc.jpg);
+  text-align: center;
+
+}
+
+.header h1 {
+  color: white;
+  font-size: 70px;
+}
+
+.biography{
+  text-align: center;
+}
+.biography p{
+  margin-left:5%;
+  margin-right: 5%;
+}
